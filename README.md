@@ -1,7 +1,7 @@
 # fintech-watch
 A list of FinTech companies worldwide
 
-## categories
+## Categories
 - [P2P lending](#p2p-lending)
 - [Crowdfunding](#crowd-funding)
 - [Education lending](#education_lending)
